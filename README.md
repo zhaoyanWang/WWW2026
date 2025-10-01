@@ -6,18 +6,31 @@ The repo includes core modules and experiment scripts necessary for helping the 
 Complete codes along with full training pipelines, will be open-sourced upon acceptance of the submission.
 
 ## For all the baselines benchmarked under compound graph deficiencies in this paper, please refer to their corresponding papers and official code repositories for details.
+
 ACM-GNN: Luan, Sitao, et al. "Revisiting heterophily for graph neural networks." Advances in neural information processing systems 35 (2022): 1362-1375.
+
 DEEP GRAPH INFOMAX: Veličković, Petar, et al. "Deep graph infomax." arXiv preprint arXiv:1809.10341 (2018).
+
 DropEdge: Rong, Yu, et al. "Dropedge: Towards deep graph convolutional networks on node classification." arXiv preprint arXiv:1907.10903 (2019).
+
 DropMessage: Fang, Taoran, et al. "Dropmessage: Unifying random dropping for graph neural networks." Proceedings of the AAAI conference on artificial intelligence. Vol. 37. No. 4. 2023.
+
 Feature Propagation: Rossi, Emanuele, et al. "On the unreasonable effectiveness of feature propagation in learning on graphs with missing node features." Learning on graphs conference. PMLR, 2022.
+
 NeiborMean
+
 GRCN: Yu, Donghan, et al. "Graph-revised convolutional network." Joint European conference on machine learning and knowledge discovery in databases. Cham: Springer International Publishing, 2020.
+
 LLM4NG: Yu, Jianxiang, et al. "Leveraging large language models for node generation in few-shot learning on text-attributed graphs." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 39. No. 12. 2025.
+
 RSGNN: Dai, Enyan, et al. "Towards robust graph neural networks for noisy graphs with sparse labels." Proceedings of the fifteenth ACM international conference on web search and data mining. 2022.
+
 TAPE: He, Xiaoxin, et al. "Harnessing explanations: Llm-to-lm interpreter for enhanced text-attributed graph representation learning." arXiv preprint arXiv:2305.19523 (2023).
+
 TAE: He, Xiaoxin, et al. "Harnessing explanations: Llm-to-lm interpreter for enhanced text-attributed graph representation learning." arXiv preprint arXiv:2305.19523 (2023).
+
 SGL: Wu, Jiancan, et al. "Self-supervised graph learning for recommendation." Proceedings of the 44th international ACM SIGIR conference on research and development in information retrieval. 2021.
+
 SimGCL: Liu, Cheng, et al. "SimGCL: graph contrastive learning by finding homophily in heterophily." Knowledge and Information Systems 66.3 (2024): 2089-2114.
 
 ## Highlights
