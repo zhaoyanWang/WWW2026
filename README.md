@@ -66,28 +66,12 @@ torch-spline-conv==1.2.1
 ### 2. End-to-End Pipeline
 
 1. **Generate synthetic papers**  
-   ```bash
-   python SGGM.py
-   ```  
 
+2. **Encode content & keywords with weights**
+   
+4. **Contrastive refinement of embeddings**  
 
-2. **Encode content & keywords with weights**  
-   ```bash
-   cd weighted_encode
-   python weighted_encode.py
-   cd ..
-   ```  
-
-3. **Contrastive refinement of embeddings**  
-   ```bash
-   python R2CL.py
-   ```  
-
-4. **Train downstream GNNs**  
-   ```bash
-   python RoGRAD_GCN.py --dataset pubmed --model_type Node
-   ```  
-   Each run sweeps node/edge/feature drop ratios and logs results to `results/*.csv`.
+5. **Train downstream GNNs**  
 
 
 ---
