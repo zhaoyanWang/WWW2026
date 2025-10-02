@@ -1,7 +1,7 @@
 ## WWW2026 Submission 
 ## Are LLMs Better GNN Helpers? Rethinking Robust Graph Learning under Deficiencies with Iterative Refinement
 
-This repository contains partial implementation code for the paper "Are LLMs Better GNN Helpers? Rethinking Robust Graph Learning under Deficiencies with Iterative Refinement" (submitted to WWW 2026).
+This repository contains core implementations for the paper "Are LLMs Better GNN Helpers? Rethinking Robust Graph Learning under Deficiencies with Iterative Refinement" (submitted to WWW 2026).
 The repo includes core modules and experiment scripts necessary for helping the review process.
 Complete codes along with full training pipelines, will be open-sourced upon acceptance of the submission.
 
